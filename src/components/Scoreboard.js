@@ -14,7 +14,7 @@ export default function Scoreboard() {
             </Link>
             <div className="text-kelompok">
               <h3>Tugas Multimedia</h3>
-              <p>Kelompok 5</p>
+              <p>Kelompok 6</p>
               <p>Anugrah Akbar P (10118969)</p>
               <p>Giwang Dwi Kintan (12118954)</p>
               <p>Octavianasya Hakim (15118493)</p>
